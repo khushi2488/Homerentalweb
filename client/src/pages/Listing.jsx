@@ -9,7 +9,7 @@ import {
   FaBath,
   FaBed,
   FaChair,
-  FaMapMarkerAlt,
+  FaMapMarkedAlt,
   FaMapMarkerAlt,
   FaParking,
   FaShare,
